@@ -4,10 +4,6 @@
 %   imshow(refocusLightField(lightField,-2));
 %   animateLightField
 
-%how are we generating the synthetic aperture image
-%do we need to generate a synthetic aperture image to refocus or remove
-%occlusions
-
 close all
 clear all
 
